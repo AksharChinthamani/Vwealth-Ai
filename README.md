@@ -1,4 +1,5 @@
 VWealth AI — Your Personal AI Financial Advisor
+
 VWealth AI is a React + TypeScript web app for tracking and managing NSE/BSE investment portfolios, powered by AI-driven analysis and a voice assistant interface.
 It goes beyond a basic portfolio tracker by combining real-time market data, sentiment analysis, and conversational AI to help retail investors and startup founders make sense of their holdings.
 Key Features
